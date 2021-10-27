@@ -1,0 +1,17 @@
+
+*** github ***
+--import to github--
+# git init
+# git add .
+# git commit -m "first commit"
+# copy 3 github link
+--update github--
+
+*** nodemon ***
+npm run dev ==> running nodemon
+
+
+*** uninstall package ***
+npm uninstall packageName ===> npm uninstall bootstrap
+
+
